@@ -1,0 +1,7 @@
+.PVS-Studio/
+.idea/
+cmake-build-debug/
+cmake-build-debug_clang/
+cmake-build-release-mingw-1/
+run_tests.sh
+testing/
